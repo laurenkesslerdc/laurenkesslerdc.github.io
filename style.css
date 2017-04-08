@@ -1,0 +1,32 @@
+h1 #borderimg {
+    border-image-source: Decorative-Border-PNG-Clipart.png;
+}
+h1 {
+	text-decoration: underline;
+}
+
+h1 {
+	color: #00ff00;
+}
+body {
+	background-image: url("ZooBackground.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: width 
+}
+h1 {
+	color:rgb(121, 121, 158, .5);
+	border-style: dotted;
+	border-width: 3px;
+	}
+.bird{color:red;}
+.fish{color:#bc6b38;
+	margin:50px 50px 50px 50px;
+} 
+
+.WILD{
+color: red;}
+body {
+	width:80%;
+margin: 50px 50px 50px 50px;
+}
